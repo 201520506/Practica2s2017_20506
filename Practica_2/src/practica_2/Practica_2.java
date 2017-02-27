@@ -15,7 +15,9 @@ public class Practica_2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.err.println("HOLA");
+     Inicio ini = new Inicio();
+     ini.setVisible(true);
+             
     }
     
 }
